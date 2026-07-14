@@ -9,13 +9,13 @@
 ## FACULTAD DE LA ENERGÍA, LAS INDUSTRIAS Y LOS RECURSOS NATURALES NO RENOVABLES
 ## CARRERA DE COMPUTACIÓN
 ## ASIGNATURA
-### Teoria de la programación
+### MATEMÁTICAS DISCRETAS
 ## TÍTULO
 ### Portafolio Digital de Aprendizaje
 ## DOCENTE
-### Lisette Geoconda López Faicán 
+### CUEVA HURTADO MARÍO ENRIQUE 
 ## ESTUDIANTE
-### Ladi Anahí Guamán Arteaga
+### LADI ANAHÍ GUAMÁN ARTEAGA
 
 ---
 </div>
